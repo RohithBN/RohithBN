@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h1>Hi👋 , I am Rohith BN </h1>
 
-🌱 I’m currently learning GO<br><br>👨‍💻 All of my projects are available at https://rohith-portfolio-theta.vercel.app<br><br>📫 How to reach me rohithbn27@gmail.com<br><br> 📂 Check out my Resume <a href="https://drive.google.com/file/d/17avgIvaOE1WNwIkW7HgHMpJ_a207XXad/edit">here</a>
+🌱 I’m currently learning GO<br><br>👨‍💻 All of my projects are available at https://rohith-portfolio-theta.vercel.app<br><br>📫 How to reach me rohithbn27@gmail.com<br><br> 📂 Check out my Resume <a href="https://drive.google.com/file/d/1b7jxkc-LGJK0vyJb_2Mk2hqLQJzuMiEX/view?usp=sharing">here</a>
 
 
 ## 🌐 Socials:
