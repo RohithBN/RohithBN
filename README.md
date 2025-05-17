@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h1>Hi👋 , I am Rohith BN </h1>
 
-🌱 I’m currently learning GO<br><br>👨‍💻<br>📫 How to reach me rohithbn27@gmail.com<br><br> 📂 Check out my Resume <a href="https://drive.google.com/file/d/1txX6LH-B2Knvbo-rlAi9AeMwSpSj25CV/view?usp=drivesdk">here</a>
+🌱 I’m currently learning GO<br><br><br>📫 How to reach me rohithbn27@gmail.com<br><br> 📂 Check out my Resume <a href="https://drive.google.com/file/d/1txX6LH-B2Knvbo-rlAi9AeMwSpSj25CV/view?usp=drivesdk">here</a>
 
 
 ## 🌐 Socials:
